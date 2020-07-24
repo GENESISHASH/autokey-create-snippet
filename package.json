@@ -1,0 +1,11 @@
+{
+  "name": "autokey-create-snippet",
+  "version": "1.0.0",
+  "main": "module.iced",
+  "license": "MIT",
+  "dependencies": {
+    "liquidjs": "^9.14.1",
+    "slugify": "^1.4.4",
+    "wegweg": "^0.17.0"
+  }
+}
