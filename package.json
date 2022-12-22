@@ -4,7 +4,7 @@
   "main": "module.iced",
   "license": "MIT",
   "dependencies": {
-    "liquidjs": "^9.14.1",
+    "liquidjs": "^10.0.0",
     "slugify": "^1.4.4",
     "wegweg": "^0.17.0"
   }
