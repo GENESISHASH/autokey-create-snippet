@@ -367,10 +367,10 @@ lazy-cache@^1.0.3:
   resolved "https://registry.yarnpkg.com/lazy-cache/-/lazy-cache-1.0.4.tgz#a1d78fc3a50474cb80845d3b3b6e1da49a446e8e"
   integrity sha1-odePw6UEdMuAhF07O24dpJpEbo4=
 
-liquidjs@^9.14.1:
-  version "9.14.1"
-  resolved "https://registry.yarnpkg.com/liquidjs/-/liquidjs-9.14.1.tgz#9dd7cee686a7609aa051adb84913a088420e9838"
-  integrity sha512-5WYoIggCjGhOld1fZSIbA21AwxgQGcHv5UbzbiyJ9/EY8fhkaW8jQHVpfJ7gFHo4CtgZC4bRRd2QKTPjfT5cRg==
+liquidjs@^10.0.0:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/liquidjs/-/liquidjs-10.0.0.tgz#282579e9f90f4bfd92ef7d09ad4f5aac3ec9fd61"
+  integrity sha512-uY3fKqBSRmnat0wB5qWk0W5N5iT78OUhuIXNRiMfhYQ3p35al9mEWKQ68/Z+WD54V2upaxEM8nHaZ6o1B8WCMA==
 
 lodash@^3.6.0:
   version "3.10.1"
